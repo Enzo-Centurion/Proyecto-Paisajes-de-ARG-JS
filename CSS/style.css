@@ -26,3 +26,9 @@ li{
     padding-left: 3rem !important;
 }
 }
+.dropdown-menu{
+    a{
+        color:black !important;
+        font-size: 2rem !important;
+    }
+}
