@@ -1,0 +1,28 @@
+*{
+    font-size: 10px;
+    color: black;
+}
+body {
+    background-image: linear-gradient(to bottom, rgba(1, 1, 1, 1), rgba(0, 0, 0, 0) 60%), 
+    url('/images/Paisaje2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
+nav{
+    a{
+        color: white !important;
+        font-size: 2.5rem !important;
+    }
+    div{
+        display: flex !important;
+    justify-content: center !important;
+    padding: 0.5rem !important;
+    padding-right: 2rem !important;
+    }
+li{
+    padding-left: 3rem !important;
+}
+}
